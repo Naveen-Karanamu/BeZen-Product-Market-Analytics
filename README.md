@@ -6,6 +6,10 @@ Clone the git repository
 ```bash
 $ git clone https://github.com/Naveen-Karanamu/BeZen-Task.git
 ```
+Cloning in Google Colab
+```bash
+!git clone https://github.com/Naveen-Karanamu/BeZen-Task.git
+```
 
 - Download Link for the Extracted CSV Dataset from the RAR file : https://drive.google.com/file/d/1JWUxzO2XjReei3sKFxDjPCkvfTF93gvF/view?usp=sharing
 
@@ -17,6 +21,10 @@ $ cd BeZen-Task/
 Install the required Libraries from the requirements file
 ```bash
 $ pip install -r requirements.txt
+```
+Instalation in Google Colab
+```bash
+!pip install -r requirements.txt
 ```
 
 * Open the main.ipynb notebook
