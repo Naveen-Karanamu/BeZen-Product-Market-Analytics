@@ -4,11 +4,11 @@
 
 Clone the git repository
 ```bash
-$ git clone https://github.com/Naveen-Karanamu/BeZen-Task.git
+$ git clone https://github.com/Naveen-Karanamu/BeZen-Product-Market-Analytics.git
 ```
 Cloning in Google Colab
 ```bash
-!git clone https://github.com/Naveen-Karanamu/BeZen-Task.git
+!git clone https://github.com/Naveen-Karanamu/BeZen-Product-Market-Analytics.git
 ```
 
 - Download Link for the Extracted CSV Dataset from the RAR file : https://drive.google.com/file/d/1JWUxzO2XjReei3sKFxDjPCkvfTF93gvF/view?usp=sharing
