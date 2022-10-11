@@ -1,4 +1,4 @@
-# Product's Marketing
+# Product's Marketing Analysis
 
 * Run all the bash commands in the terminal, exclude '$' from the text. It is the os path which the terminal will give automatically
 
