@@ -15,7 +15,7 @@ Cloning in Google Colab
 
 Download the file.csv in the same directory. Change the directory by 
 ```bash
-$ cd BeZen-Task/
+$ cd BeZen-Product-Market-Analytics/
 ```
 
 Install the required Libraries from the requirements file
